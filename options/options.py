@@ -107,9 +107,9 @@ class OptionKeys:
 
 class OptionDefaultValue:
     website_base_url = "http://127.0.0.1"
-    website_name = "Online Judge"
+    website_name = "HSBC Online Judge"
     website_name_shortcut = "oj"
-    website_footer = "Online Judge Footer"
+    website_footer = "HSBC Online Judge Footer"
     allow_register = True
     submission_list_show_all = True
     smtp_config = {}
